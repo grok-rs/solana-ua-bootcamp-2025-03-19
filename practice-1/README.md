@@ -13,3 +13,13 @@
 `rust-exercises`, і збережіть ваш код там.  Не забудьте, що ви маєте
 завантажити скріншоти виконання і для додаткового завдання, в доповнення до
 коду.
+
+## Let's rewrite it all on Rust
+### Generate keypair
+![generate key pair](./images/generate_keypair.png)
+
+### Load keypair
+![load keypair](./images/load_keypair.png)
+
+### Airdrop check balance
+![check balance](./images/check_balance.png)
