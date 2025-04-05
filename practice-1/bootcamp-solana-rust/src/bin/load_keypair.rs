@@ -4,10 +4,10 @@ use std::process;
 
 fn main() {
     // Load environment variables from .env file, if present
-    dotenv::dotenv().ok();
+    dotenvy::dotenv().ok();
 
     // Retrieve the private key from the "PK" environment variable
-    let pk = std::env::var("PK").unwrap_or_else(|_| {
+    let pk = std::env::var("SECRET_KEY").unwrap_or_else(|_| {
         eprintln!("No private key provided");
         process::exit(1);
     });

@@ -23,3 +23,18 @@
 
 ### Airdrop check balance
 ![check balance](./images/check_balance.png)
+
+### Send solana
+![send solana](./images/send_sol.jpg)
+
+### Create Mint
+![create mint](./images/create_mint.jpg)
+
+### Create token account
+![create token accounts](./images/create_token_account.jpg)
+
+### Mint tokens
+![mint tokens](./images/mint_tokens.jpg)
+
+### Create metadata
+![create token metadata](./images/create_token_metadata.jpg)
